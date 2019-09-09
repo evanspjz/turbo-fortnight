@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "681823860003",
+    "firebase_url": "https://rehash-8e456.firebaseio.com",
+    "project_id": "rehash-8e456",
+    "storage_bucket": "rehash-8e456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681823860003:android:3970f07b24c8f654",
+        "android_client_info": {
+          "package_name": "com.thefinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681823860003-cbm5b1ebhu27694kcvctg2ufmn1uiuqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkt9vBliqK8tZyDzwHgUb8N53yiAGQp6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681823860003-cbm5b1ebhu27694kcvctg2ufmn1uiuqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
